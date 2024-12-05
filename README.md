@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Coolajouer
+- Learning in computer science
+- Beginner with git
