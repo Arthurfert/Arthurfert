@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Coolajouer
-- Learning in computer science
-- Beginner with git
+- 👋 Hi, I’m Arthur FERT (@Coolajouer)
+- Currently a student in computer science
+- Beginner with github
