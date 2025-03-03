@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Fert</h1>
-<h3 align="center"> Currently a student in computer science at <a href="https://www.telecom-st-etienne.fr/">Télécom Saint-Etienne</a>, I slowly putting my code into my github</h3>
+<h3 align="center"> Currently a student in computer science at <a href="https://www.telecom-st-etienne.fr/">Télécom Saint-Etienne</a>, I'm slowly putting my code into my github</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
