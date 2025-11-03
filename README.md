@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Fert</h1>
-<h3 align="center"> Currently a student in computer science at <a href="https://www.telecom-st-etienne.fr/">Télécom Saint-Etienne</a>, I'm slowly putting my code into my github</h3>
+<h3 align="center"> Currently a student in computer science at <a href="https://www.telecom-st-etienne.fr/">Télécom Saint-Etienne</a>, <br> I'm slowly putting my code into my github</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -20,6 +20,3 @@
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> </a>
 </p>
-
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://buymeacoffee.com/arthurfert"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arthurfert" /></a></p><br><br>
