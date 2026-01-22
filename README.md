@@ -7,7 +7,13 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/arthur-fert-ingenieur-informatique-cybersecurite-reseaux-developpement/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:fert.arthur83@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/7286/7286142.png" width="52" height="40" alt="Mail me" />
+  </a>
 </div>
 
 ###
