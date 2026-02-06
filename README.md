@@ -26,6 +26,18 @@
 
 ###
 
+<h2 align="left">Current Projects</h2>
+
+###
+
+- [Peadra](https://github.com/Arthurfert/Peadra) : A local personnal accountability desktop app. **Python & Flet**.
+- [Local Film Rating](https://github.com/Arthurfert/Local-Film-rating) : A self-hosted website to rate film & series. **React**.
+- [Local LLM GUI](https://github.com/Arthurfert/Local_LLM_GUI) : A graphic interface for your local LLMs. **Python, QT, Ollama**.
+- [Shell](https://github.com/Arthurfert/shell) : A minimal shell experiment, addding linux command to windows. **Rust**.
+- [SecLLM-Gen](https://github.com/Arthurfert/SecLLM-Gen) : A project aiming to generate attack & defense scripts. **Python, Ollama, Web**.
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
