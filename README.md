@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there👋 I'm Arthur 👨‍💻</h1>
 
 ###
 
-<p align="left">My name is Arthur and I'm a cybersecurity student from France.</p>
+<p align="left">A cybersecurity student from France.</p>
 
 ###
 
@@ -31,7 +31,7 @@
 ###
 
 - [Peadra](https://github.com/Arthurfert/Peadra) : A local personnal accountability desktop app. **Python & Flet**.
-- [Local LLM GUI](https://github.com/Arthurfert/Local_LLM_GUI) : A graphic interface for your local LLMs. **Python, QT, Ollama**.
+- [Local LLM GUI](https://github.com/Arthurfert/Local_LLM_GUI) : A graphic interface for your local LLMs. **Python, Web, Ollama**.
 - [MCP Server](https://github.com/Arthurfert/MCP-server) : My own MCP server, with more and more tools coming. **Rust**.
 - [SecLLM-Gen](https://github.com/Arthurfert/SecLLM-Gen) : A POC aiming to generate and test attack & defense scripts with LLMs (school project). **Python, Ollama, Web**.
 - [Local Film Rating](https://github.com/Arthurfert/Local-Film-rating) : A self-hosted website to rate film & series. **React**.
