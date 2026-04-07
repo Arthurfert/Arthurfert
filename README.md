@@ -1,8 +1,6 @@
-<h1 align="left">Hey there👋 I'm Arthur 👨‍💻</h1>
+# Hey there👋 I'm Arthur 👨‍💻
 
-###
-
-<p align="left">A cybersecurity student from France.</p>
+A cybersecurity student from France.
 
 ###
 
@@ -18,29 +16,30 @@
 
 ###
 
-<h2 align="left">About me</h2>
+## About Me
+
+✨ Having fun coding since 2018 (didn't knew git at the time)<br>
+📚 I'm currently learning cybersecurity<br>
+🎯 Goals: Create useful repos and learn a lot more !
 
 ###
 
-<p align="left">✨ Having fun coding since 2018 (didn't knew git at the time)<br>📚 I'm currently learning cybersecurity<br>🎯 Goals: Create useful repos and learn a lot more !</p>
+## Current Projects
+
+- [Peadra](https://github.com/Arthurfert/Peadra) :<br>
+  A local personnal accountability desktop app. **Python & Flet**.
+- [LocalMind](https://github.com/Arthurfert/LocalMind) :<br>
+  A graphic interface for your local LLMs. **Python, Web, Ollama**.
+- [MCP Server](https://github.com/Arthurfert/MCP-server) :<br>
+  My own MCP server, with more and more tools coming. **Rust**.
+- [SecLLM-Gen](https://github.com/Arthurfert/SecLLM-Gen) :<br>
+  A POC aiming to generate and test attack & defense scripts with LLMs (school project). **Python, Ollama, Web**.
+- [Local Film Rating](https://github.com/Arthurfert/Local-Film-rating) :<br>
+  A self-hosted website to rate film & series. **React**.
 
 ###
 
-<h2 align="left">Current Projects</h2>
-
-###
-
-- [Peadra](https://github.com/Arthurfert/Peadra) : A local personnal accountability desktop app. **Python & Flet**.
-- [LocalMind](https://github.com/Arthurfert/LocalMind) : A graphic interface for your local LLMs. **Python, Web, Ollama**.
-- [MCP Server](https://github.com/Arthurfert/MCP-server) : My own MCP server, with more and more tools coming. **Rust**.
-- [SecLLM-Gen](https://github.com/Arthurfert/SecLLM-Gen) : A POC aiming to generate and test attack & defense scripts with LLMs (school project). **Python, Ollama, Web**.
-- [Local Film Rating](https://github.com/Arthurfert/Local-Film-rating) : A self-hosted website to rate film & series. **React**.
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
