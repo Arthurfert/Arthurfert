@@ -21,7 +21,7 @@
 
 ### [Peadra](https://github.com/Arthurfert/Peadra)
 > A local personnal accountability desktop app.  
-> `Python` • `Flet`
+> `Python` • `Flet` • `SQLite`
 ### [LocalMind](https://github.com/Arthurfert/LocalMind)
 > A graphic interface for your local LLMs.  
 > `Rust` • `Web` • `Ollama`
