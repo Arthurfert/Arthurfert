@@ -11,9 +11,9 @@
 
 ## About Me
 
-✨ Having fun coding since 2018 (didn't knew git at the time)  
-📚 I'm currently learning cybersecurity  
-🎯 Goals: Create useful repos and learn a lot more !
+I'm having fun coding since 2018 (didn't knew git at the time)  
+Currently learning cybersecurity
+Goals: Create useful repos and learn a lot more !
 
 ###
 
@@ -24,7 +24,7 @@
 > `Python` • `Flet` • `SQLite`
 ### [LocalMind](https://github.com/Arthurfert/LocalMind)
 > A graphic interface for your local LLMs.  
-> `Rust` • `Web` • `Ollama`
+> `Rust` • `Web` • `Openapi`
 ### [MCP Server](https://github.com/Arthurfert/MCP-server)
 > My custom Model Context Protocol server for AI agents.  
 > `Rust`
