@@ -1,7 +1,7 @@
 # Hey there👋 I'm Arthur
 
-**Cybersecurity student from France**  
-*Passionate about security automation, local LLMs, and system development.*
+**A cybersecurity student from France**  
+*Passionate about app developpement, security and artificial intelligence.*
 
 <div align="left">
   <a href="https://www.linkedin.com/in/arthur-fert-ingenieur-informatique-cybersecurite-reseaux-developpement/" target="_blank">
@@ -12,7 +12,7 @@
 ## About Me
 
 I'm having fun coding since 2018 (didn't knew git at the time)  
-Currently learning cybersecurity
+Currently learning cybersecurity  
 Goals: Create useful repos and learn a lot more !
 
 ###
