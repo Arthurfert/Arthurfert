@@ -28,9 +28,9 @@ Goals: Create useful repos and learn a lot more !
 ### [MCP Server](https://github.com/Arthurfert/MCP-server)
 > My custom Model Context Protocol server for AI agents.  
 > `Rust`
-### [SecLLM-Gen](https://github.com/Arthurfert/SecLLM-Gen)
-> Cybersecurity & AI POC aiming to generate and test attack/defense scripts.  
-> `Python` • `Web` • `Ollama`
+### [Local Film Rating](https://github.com/Arthurfert/Local-Film-rating)
+> Local website for rating movies and TV shows and manage your watchlist.  
+> `Next.js` • `Typescript` • `React`
 
 ## I code with
 
