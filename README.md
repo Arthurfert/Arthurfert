@@ -20,10 +20,10 @@ Goals: Create useful repos and learn a lot more !
 ## Main Projects
 
 ### [Peadra](https://github.com/Arthurfert/Peadra)
-> A local personnal accountability desktop app.  
+> A local-first desktop application to manage your finances.  
 > `Python` • `Flet` • `SQLite`
 ### [LocalMind](https://github.com/Arthurfert/LocalMind)
-> A graphic interface for your local LLMs.  
+> A graphic interface for your local LLMs.   
 > `Rust` • `Web` • `Openapi`
 ### [MCP Server](https://github.com/Arthurfert/MCP-server)
 > My custom Model Context Protocol server for AI agents.  
