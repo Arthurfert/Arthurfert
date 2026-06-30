@@ -21,7 +21,7 @@ Goals: Create useful repos and learn a lot more !
 
 ### [Peadra](https://github.com/Arthurfert/Peadra)
 > A local-first desktop application to manage your finances.  
-> `Python` • `Flet` • `SQLite`
+> `Flutter` • `Dart` • `SQLite`
 ### [LocalMind](https://github.com/Arthurfert/LocalMind)
 > A graphic interface for your local LLMs.   
 > `Rust` • `Web` • `Openapi`
