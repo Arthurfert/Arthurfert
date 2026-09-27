@@ -9,12 +9,9 @@ Feel free to connect on [linkedin](https://www.linkedin.com/in/arthur-fert/), an
 ### [Peadra](https://github.com/Arthurfert/Peadra)
 > A local-first desktop application to manage your finances.  
 > `Flutter` • `Dart` • `SQLite`
-### [LocalMind](https://github.com/Arthurfert/LocalMind)
-> A graphic interface for your local LLMs.   
-> `Rust` • `Web` • `Openapi`
-### [MCP Server](https://github.com/Arthurfert/MCP-server)
-> My custom Model Context Protocol server for AI agents.  
-> `Rust`
+### [Mint SuperApplet](https://github.com/Arthurfert/Mint-SuperApplet)
+> A custom cinnamon applet for general purpose.  
+> `Javascript`
 ### [Local Film Rating](https://github.com/Arthurfert/Local-Film-rating)
 > Local website for rating movies and TV shows and manage your watchlist.  
 > `Next.js` • `Typescript` • `React`
