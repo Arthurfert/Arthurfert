@@ -1,18 +1,8 @@
 # Hey there👋 I'm Arthur
 
-**A cybersecurity student from France**  
-*Passionate about app developpement, security and artificial intelligence.*
+**A cybersecurity student from France**
 
-👥 [My linkedin](https://www.linkedin.com/in/arthur-fert/)  
-🌐 [Visit my website !](https://arthurfert.com/)
-
-## About Me
-
-I'm having fun coding since 2018 (didn't knew git at the time)  
-Currently learning cybersecurity  
-Goals: Create useful repos and learn a lot more !
-
-###
+Feel free to connect on [linkedin](https://www.linkedin.com/in/arthur-fert/), and visit [my personnal website !](https://arthurfert.com/)
 
 ## Main Projects
 
@@ -46,12 +36,6 @@ Goals: Create useful repos and learn a lot more !
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
-</div>
-
-### AI & Data Science
-<div align="left">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </div>
 
 ### DevOps
